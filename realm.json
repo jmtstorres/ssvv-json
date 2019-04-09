@@ -1,0 +1,16 @@
+{
+  "realm" : [
+    {
+      "id" : "0",
+      "name" : "clinica 0",
+      "imgeUrl" : "",
+      "domain" : "cl0.com.br"
+    },
+    {
+      "id" : "1",
+      "name" : "clinica 01",
+      "imgeUrl" : "",
+      "domain" : "cl1.com.br"
+    }
+  ]
+}
