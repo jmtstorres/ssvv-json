@@ -3,13 +3,13 @@
     {
       "id" : "0",
       "name" : "clinica 0",
-      "imgeUrl" : "",
+      "imgeUrl" : "https://i.imgur.com/Msuiq4N.png",
       "domain" : "cl0.com.br"
     },
     {
       "id" : "1",
       "name" : "clinica 01",
-      "imgeUrl" : "",
+      "imgeUrl" : "https://i.imgur.com/GzRaDpI.png",
       "domain" : "cl1.com.br"
     }
   ],
